@@ -1,4 +1,4 @@
-repository "Gioco Horror 1@Matt3e@cloud"
+repository "HorrorDungeons@Matt3e@cloud"
   path "/"
     br "/main"
     co "/main"
